@@ -12,7 +12,8 @@
 
 # IDE
 .idea
-.iml
+
+*.iml
 
 # Package Files #
 *.jar
